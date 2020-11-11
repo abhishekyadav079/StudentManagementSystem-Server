@@ -1,0 +1,46 @@
+{
+  "student": [
+    {
+      "name": "Abhishek ",
+      "standard": "10",
+      "age": "19",
+      "address": "Lucknow",
+      "id": 2
+    },
+    {
+      "name": "Mukesh",
+      "standard": "3",
+      "age": "10",
+      "address": "Chennai",
+      "id": 3
+    },
+    {
+      "name": "Saurabh",
+      "standard": "12",
+      "age": "20",
+      "address": "Jaipur",
+      "id": 4
+    },
+    {
+      "name": "Krishna",
+      "standard": "4",
+      "age": "7",
+      "address": "Noida",
+      "id": 6
+    },
+    {
+      "name": "Geeta Singh",
+      "standard": "10",
+      "age": "10",
+      "address": "Pune",
+      "id": 7
+    },
+    {
+      "name": "Vidhi",
+      "standard": 12,
+      "age": 20,
+      "address": "Gwalior",
+      "id": 8
+    }
+  ]
+}
